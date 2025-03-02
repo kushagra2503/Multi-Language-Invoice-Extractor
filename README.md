@@ -20,7 +20,7 @@ pip install streamlit google-generativeai pillow python-dotenv
 ### 1. Clone the Repository (Optional)
 If you're using Git:
 ```bash
-git clone https://github.com/your-repo/gemini-invoice-extractor.git
+git clone https://github.com/kushagra2503/Multi-Language-Invoice-Extractor.git
 cd gemini-invoice-extractor
 ```
 
@@ -58,13 +58,11 @@ streamlit run app.py
 ## Future Enhancements
 - Add support for PDF invoices.
 - Improve OCR accuracy for better text extraction.
-- Enable multi-language invoice recognition.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 For questions or suggestions, reach out to:
-📧 Email: your_email@example.com  
-🐙 GitHub: [your-github-profile](https://github.com/your-github-profile)
+📧 Email: radhikayash2@gmail.com   
 
